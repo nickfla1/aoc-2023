@@ -1,0 +1,5 @@
+(executables
+ (public_names aoc)
+ (names day1)
+ (modules day1)
+ (libraries aoc))
